@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://karadaharu.github.io/katsufumi.ws/</loc>
+    <lastmod>2016-03-06T23:26:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://karadaharu.github.io/katsufumi.ws/works/some/</loc>
+    <lastmod>2016-03-06T23:26:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karadaharu.github.io/katsufumi.ws/works/agic/</loc>
+    <lastmod>2016-03-06T22:27:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karadaharu.github.io/katsufumi.ws/works/item2/</loc>
+    <lastmod>2016-03-06T22:05:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karadaharu.github.io/katsufumi.ws/publications/</loc>
+    <lastmod>2016-03-06T21:29:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karadaharu.github.io/katsufumi.ws/works/item1/</loc>
+    <lastmod>2016-03-06T21:29:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://karadaharu.github.io/katsufumi.ws/about/</loc>
+    <lastmod>2016-03-06T01:48:20+09:00</lastmod>
+  </url>
+  
+</urlset>

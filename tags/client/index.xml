@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client on Katsufumi Matsui</title>
+    <link>http://karadaharu.github.io/katsufumi.ws/tags/client/</link>
+    <description>Recent content in Client on Katsufumi Matsui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Mar 2016 22:27:45 +0900</lastBuildDate>
+    <atom:link href="http://karadaharu.github.io/katsufumi.ws/tags/client/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>agic</title>
+      <link>http://karadaharu.github.io/katsufumi.ws/works/agic/</link>
+      <pubDate>Sun, 06 Mar 2016 22:27:45 +0900</pubDate>
+      
+      <guid>http://karadaharu.github.io/katsufumi.ws/works/agic/</guid>
+      <description>&lt;p&gt;AgIC Erasable Circuit Marker Promotion Video&lt;/p&gt;
+
+&lt;p&gt;Producer/Director Katsufumi Matsui
+Director of Photography/Editor Shinsuke Yasui
+Music Yoshihito Nakanishi
+Designer Yoshihito Nakanishi, Seico Okamoto, Natsuki Doi
+Engineer Kazunori Ogasawara, Nobuhiro Sunada, Jotaro Shigeyama
+Script Shinya Shimizu
+Cast Natsuki Doi/Yoshihito Nakanishi/Seico Okamoto, Yoshihiro Kawahara, Allen Pan,
+Shinya Shimizu, Yuki Nishida, Kazunori Ogasawara, Jotaro Shigeyamao&lt;/p&gt;
+
+&lt;p&gt;The world’s first eraser for conductive ink drawings.
+Now anyone can make their own circuits on paper quickly and easily.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

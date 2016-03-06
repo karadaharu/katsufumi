@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katsufumi Matsui</title>
+    <link>http://karadaharu.github.io/katsufumi.ws/</link>
+    <description>Recent content on Katsufumi Matsui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Mar 2016 23:26:19 +0900</lastBuildDate>
+    <atom:link href="http://karadaharu.github.io/katsufumi.ws/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>some</title>
+      <link>http://karadaharu.github.io/katsufumi.ws/works/some/</link>
+      <pubDate>Sun, 06 Mar 2016 23:26:19 +0900</pubDate>
+      
+      <guid>http://karadaharu.github.io/katsufumi.ws/works/some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agic</title>
+      <link>http://karadaharu.github.io/katsufumi.ws/works/agic/</link>
+      <pubDate>Sun, 06 Mar 2016 22:27:45 +0900</pubDate>
+      
+      <guid>http://karadaharu.github.io/katsufumi.ws/works/agic/</guid>
+      <description>&lt;p&gt;AgIC Erasable Circuit Marker Promotion Video&lt;/p&gt;
+
+&lt;p&gt;Producer/Director Katsufumi Matsui
+Director of Photography/Editor Shinsuke Yasui
+Music Yoshihito Nakanishi
+Designer Yoshihito Nakanishi, Seico Okamoto, Natsuki Doi
+Engineer Kazunori Ogasawara, Nobuhiro Sunada, Jotaro Shigeyama
+Script Shinya Shimizu
+Cast Natsuki Doi/Yoshihito Nakanishi/Seico Okamoto, Yoshihiro Kawahara, Allen Pan,
+Shinya Shimizu, Yuki Nishida, Kazunori Ogasawara, Jotaro Shigeyamao&lt;/p&gt;
+
+&lt;p&gt;The world’s first eraser for conductive ink drawings.
+Now anyone can make their own circuits on paper quickly and easily.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The 360° Skyline Song</title>
+      <link>http://karadaharu.github.io/katsufumi.ws/works/item2/</link>
+      <pubDate>Sun, 06 Mar 2016 22:05:35 +0900</pubDate>
+      
+      <guid>http://karadaharu.github.io/katsufumi.ws/works/item2/</guid>
+      <description>&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/90098467&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Katsufumi Matsui&lt;/p&gt;
+
+&lt;p&gt;Technical cooperation
+Kazunori Ogasawara
+Seico Okamoto&lt;/p&gt;
+
+&lt;p&gt;Special thanks to
+Seiichiro Matsumura
+Boyoung Kim
+Tatsuya Ogusu
+Toru Nakamoto
+Kohei Morita&lt;/p&gt;
+
+&lt;p&gt;&amp;lsquo;The 360° Skyline Song&amp;rsquo; is an audio-visual installation work that makes sound waves
+from the visual &amp;ldquo;boundary&amp;rdquo; between surrounding scenery and sky.
+The visual data, made by recording the surrounding scenery with a video camera rotating an angle of 360 degrees,
+are transformed into sound waves in real time by analyzing each camera frame.
+By acquiring the color temperature and the atmospheric temperature there simultaneously,
+&amp;lsquo;The 360° Skyline Song&amp;rsquo; improvises the expressive synthesis unique to the moment,
+so they are live and impressive to the audience.
+Both audio and visual data achieve the intuitive recognition of the transition of the boundary in sceneries.
+This installation implies the instability of surroundings,
+by interactively producing sound from changing surroundings and showing the captured movie.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>http://karadaharu.github.io/katsufumi.ws/publications/</link>
+      <pubDate>Sun, 06 Mar 2016 21:29:40 +0900</pubDate>
+      
+      <guid>http://karadaharu.github.io/katsufumi.ws/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary Synthesizer I</title>
+      <link>http://karadaharu.github.io/katsufumi.ws/works/item1/</link>
+      <pubDate>Sun, 06 Mar 2016 21:29:11 +0900</pubDate>
+      
+      <guid>http://karadaharu.github.io/katsufumi.ws/works/item1/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/114414871&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Katsufumi Matsui&lt;/p&gt;
+
+&lt;p&gt;Technical cooperation
+Seico Okamoto&lt;/p&gt;
+
+&lt;p&gt;Boundary Synthesizer I is an interactive audio-visual installation work that makes sound waves
+by analysis of the visual “boundary” of sceneries.Those sceneries come from various videos.
+The computer vision system detects the boundary lines of sceneries, such as cityscapes, sea waves and fireworks, automatically.
+This boundary line is extracted from the outline in each video frame and is directly transformed into the sound wave line.
+Users can manipulate parameters by turning knobs and pushing switches of the interface as with typical musical synthesizers.
+Thus, this installation is an audio-visual synthesizer in which the oscillator’s waveform is structured by the visual boundary.
+This synthesizer has 2 oscillators – 2 video images are encoded simultaneously.
+Users can enjoy playing with Boundary Synthesizer I by changing video inputs, controlling the frequency of ring modulation and pressing switches that modulate both video and sound.
+Monotonous sounds are made from monotonous scenery; complex sounds are made from scenery with active movements,
+for example sea waves and fireworks. Users can experience the intuitive connection of scenery and sound.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://karadaharu.github.io/katsufumi.ws/about/</link>
+      <pubDate>Sun, 06 Mar 2016 01:48:20 +0900</pubDate>
+      
+      <guid>http://karadaharu.github.io/katsufumi.ws/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;profile:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;profile&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://karadaharu.github.io/katsufumi.ws/bio.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;aaaaaa aaaaaaaaa aaaaaaaaaa aaaaa aaaaaaaaa aaaaa aaaaa aaaaaaaa aaaa aa aaaaaaa aaaaaaa aaaaaa.
+aaaaaa aaaaaaaaa aaaaaaaaaa aaaaa aaaaaaaaa aaaaa aaaaa aaaaaaaa aaaa aa aaaaaaa aaaaaaa aaaaaa.&lt;/p&gt;
+
+&lt;p&gt;I was born in 1985 in Yamagata, Japan.
+I live in Tokyo.
+My main areas of interest are live performance, sound installation, photography, DJ.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
