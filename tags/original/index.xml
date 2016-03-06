@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Original on Katsufumi Matsui</title>
-    <link>http://karadaharu.github.io/katsufumi.ws/tags/original/</link>
+    <link>http://karadaharu.org/katsufumi/tags/original/</link>
     <description>Recent content in Original on Katsufumi Matsui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Mar 2016 23:26:19 +0900</lastBuildDate>
-    <atom:link href="http://karadaharu.github.io/katsufumi.ws/tags/original/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://karadaharu.org/katsufumi/tags/original/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>some</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/works/some/</link>
+      <link>http://karadaharu.org/katsufumi/works/some/</link>
       <pubDate>Sun, 06 Mar 2016 23:26:19 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/works/some/</guid>
+      <guid>http://karadaharu.org/katsufumi/works/some/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 360° Skyline Song</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/works/item2/</link>
+      <link>http://karadaharu.org/katsufumi/works/item2/</link>
       <pubDate>Sun, 06 Mar 2016 22:05:35 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/works/item2/</guid>
+      <guid>http://karadaharu.org/katsufumi/works/item2/</guid>
       <description>&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/90098467&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -56,19 +56,19 @@ by interactively producing sound from changing surroundings and showing the capt
     
     <item>
       <title>publications</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/publications/</link>
+      <link>http://karadaharu.org/katsufumi/publications/</link>
       <pubDate>Sun, 06 Mar 2016 21:29:40 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/publications/</guid>
+      <guid>http://karadaharu.org/katsufumi/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boundary Synthesizer I</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/works/item1/</link>
+      <link>http://karadaharu.org/katsufumi/works/item1/</link>
       <pubDate>Sun, 06 Mar 2016 21:29:11 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/works/item1/</guid>
+      <guid>http://karadaharu.org/katsufumi/works/item1/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/114414871&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
@@ -93,15 +93,15 @@ for example sea waves and fireworks. Users can experience the intuitive connecti
     
     <item>
       <title>about</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/about/</link>
+      <link>http://karadaharu.org/katsufumi/about/</link>
       <pubDate>Sun, 06 Mar 2016 01:48:20 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/about/</guid>
+      <guid>http://karadaharu.org/katsufumi/about/</guid>
       <description>
 
 &lt;h2 id=&#34;profile:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;profile&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://karadaharu.github.io/katsufumi.ws/bio.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://karadaharu.org/katsufumi/bio.jpg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;aaaaaa aaaaaaaaa aaaaaaaaaa aaaaa aaaaaaaaa aaaaa aaaaa aaaaaaaa aaaa aa aaaaaaa aaaaaaa aaaaaa.
 aaaaaa aaaaaaaaa aaaaaaaaaa aaaaa aaaaaaaaa aaaaa aaaaa aaaaaaaa aaaa aa aaaaaaa aaaaaaa aaaaaa.&lt;/p&gt;

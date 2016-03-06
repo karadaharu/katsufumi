@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Katsufumi Matsui</title>
-    <link>http://karadaharu.github.io/katsufumi.ws/works/</link>
+    <link>http://karadaharu.org/katsufumi/works/</link>
     <description>Recent content in Works on Katsufumi Matsui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Mar 2016 23:26:19 +0900</lastBuildDate>
-    <atom:link href="http://karadaharu.github.io/katsufumi.ws/works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://karadaharu.org/katsufumi/works/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>some</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/works/some/</link>
+      <link>http://karadaharu.org/katsufumi/works/some/</link>
       <pubDate>Sun, 06 Mar 2016 23:26:19 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/works/some/</guid>
+      <guid>http://karadaharu.org/katsufumi/works/some/</guid>
       <description></description>
     </item>
     
     <item>
       <title>agic</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/works/agic/</link>
+      <link>http://karadaharu.org/katsufumi/works/agic/</link>
       <pubDate>Sun, 06 Mar 2016 22:27:45 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/works/agic/</guid>
+      <guid>http://karadaharu.org/katsufumi/works/agic/</guid>
       <description>&lt;p&gt;AgIC Erasable Circuit Marker Promotion Video&lt;/p&gt;
 
 &lt;p&gt;Producer/Director Katsufumi Matsui
@@ -42,10 +42,10 @@ Now anyone can make their own circuits on paper quickly and easily.&lt;/p&gt;
     
     <item>
       <title>The 360° Skyline Song</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/works/item2/</link>
+      <link>http://karadaharu.org/katsufumi/works/item2/</link>
       <pubDate>Sun, 06 Mar 2016 22:05:35 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/works/item2/</guid>
+      <guid>http://karadaharu.org/katsufumi/works/item2/</guid>
       <description>&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/90098467&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -78,10 +78,10 @@ by interactively producing sound from changing surroundings and showing the capt
     
     <item>
       <title>Boundary Synthesizer I</title>
-      <link>http://karadaharu.github.io/katsufumi.ws/works/item1/</link>
+      <link>http://karadaharu.org/katsufumi/works/item1/</link>
       <pubDate>Sun, 06 Mar 2016 21:29:11 +0900</pubDate>
       
-      <guid>http://karadaharu.github.io/katsufumi.ws/works/item1/</guid>
+      <guid>http://karadaharu.org/katsufumi/works/item1/</guid>
       <description>&lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/114414871&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
