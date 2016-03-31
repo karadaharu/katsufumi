@@ -17,8 +17,7 @@
     <meta property="og:title" content="about &middot; Katsufumi Matsui">
     <meta property="og:description" content="">
 
-    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Oxygen:400,700' rel='stylesheet' type='text/css'>
-    <link href='//fonts.googleapis.com/css?family=Palanquin:400,200,100' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Roboto:300,400|Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
     <!--[if lte IE 8]>
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-old-ie-min.css">
@@ -27,15 +26,15 @@
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/grids-responsive-min.css">
     <!--<![endif]-->
 
-    <link rel="stylesheet" href="http://karadaharu.org/katsufumi//css/all.min.css">
+    <link rel="stylesheet" href="http://localhost:1313/katsufumi//css/all.min.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <link rel="alternate" type="application/rss+xml" title="Katsufumi Matsui" href="http://karadaharu.org/katsufumi//index.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Katsufumi Matsui" href="http://localhost:1313/katsufumi//index.xml" />
 </head>
 <body>
 <div class="pure-g top-bar">
   <div class="pure-u-1">
-    <a href="http://karadaharu.org/katsufumi/"><h1 class="brand-title">Katsufumi Matsui</h1></a>
+    <a href="http://localhost:1313/katsufumi/"><h1 class="brand-title">Katsufumi Matsui</h1></a>
   </div>
 </div>
 
@@ -51,12 +50,12 @@
         <nav class="nav">
             <ul class="nav-list">
                 <li class="nav-item">
-                    <a href="http://karadaharu.org/katsufumi/about">bio</a>
+                    <a href="http://localhost:1313/katsufumi/bio">bio</a>
                 </li>
                 <li class="nav-item">
-                    <a href="http://karadaharu.org/katsufumi/works">works</a>
+                    <a href="http://localhost:1313/katsufumi/works">works</a>
                 <li class="nav-item">
-                    <a href="http://karadaharu.org/katsufumi/contact">contact</a>
+                    <a href="http://localhost:1313/katsufumi/contact">contact</a>
                 </li>
                 
                 
@@ -73,7 +72,7 @@
                 <section class="post">
                     <header class="post-header">
 
-                        <a href="http://karadaharu.org/katsufumi/about/" class="post-title">about</a>
+                        <a href="http://localhost:1313/katsufumi/about/" class="post-title">about</a>
 
                         <p class="post-meta">
                             
@@ -101,8 +100,8 @@ My main areas of interest are live performance, sound installation, photography,
             </div>
             <div class="footer">
 </div>
-<script src="http://karadaharu.org/katsufumi//js/all.min.js"></script>
-<script src="http://karadaharu.org/katsufumi//js/kerning.min.js"></script>
+<script src="http://localhost:1313/katsufumi//js/all.min.js"></script>
+<script src="http://localhost:1313/katsufumi//js/kerning.min.js"></script>
 
         </div>
     </div>
@@ -120,5 +119,8 @@ ga('send', 'pageview');
 
 </script>
 
-</body>
+<script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

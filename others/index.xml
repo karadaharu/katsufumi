@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Katsufumi Matsui</title>
+    <link>http://katsufumi.ws/others/</link>
+    <description>Recent content in Others on Katsufumi Matsui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Mar 2016 01:23:39 +0900</lastBuildDate>
+    <atom:link href="http://katsufumi.ws/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>work1</title>
+      <link>http://katsufumi.ws/others/work1/</link>
+      <pubDate>Sat, 26 Mar 2016 01:23:39 +0900</pubDate>
+      
+      <guid>http://katsufumi.ws/others/work1/</guid>
+      <description>&lt;p&gt;あああ&lt;/p&gt;
+
+&lt;p&gt;いいい&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
